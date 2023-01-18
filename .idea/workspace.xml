@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5906ccc-f413-45be-85dc-f6b55e74cab5" name="变更" comment="Update workspace.xml" />
+    <list default="true" id="c5906ccc-f413-45be-85dc-f6b55e74cab5" name="变更" comment="Update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/_posts/2023-01-18-优势成长.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
