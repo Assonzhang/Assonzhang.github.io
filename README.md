@@ -1,6 +1,6 @@
-# 码志
+# Asson
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://assonzhang.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -17,9 +17,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[在线预览 &rarr;](https://assonzhang.github.io/)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://assonzhang.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
