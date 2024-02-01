@@ -79,9 +79,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 联系我
 
-如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/mzlogin/mzlogin.github.io/issues) 或者微信公众号「闷骚的程序员」与我取得联系。
-
-<img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
+[Issues](https://github.com/Assonzhang/Assonzhang.github.io/issues)。
 
 ## 致谢
 
